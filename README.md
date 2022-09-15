@@ -1,5 +1,5 @@
 # Blood_Donation
-This is a desktop applicaton used to develop a blood donation system 
+This is a desktop application used to develop a blood donation system 
 
 ## The reason for creating this project 
 Is that we aim to make connection easier between donors and receivers
