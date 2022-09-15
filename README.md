@@ -11,14 +11,13 @@ This is for donors. As for  receivers they can submit a request for a donation.
 
 ## Images used in the application
  ### Background image
-     ![blood](http://D:/8.blood%20app/python/images/blood.jpg)
+     
  
  ### Buttons
    ##### Receive
-      ![Button_6](https://user-images.githubusercontent.com/87450539/190470244-de36ac0b-68fd-4f99-896a-14f3c1d123ec.jpg)
+      
    ##### Donate
-      ![Button_7](https://user-images.githubusercontent.com/87450539/190470371-c0d8f208-2b7c-43ba-a3bf-533b45588979.jpg)
-
+     
 ## System tools
 This system is developed using python tkinter and sqlite for database.
 
