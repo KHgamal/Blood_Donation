@@ -11,13 +11,13 @@ This is for donors. As for  receivers they can submit a request for a donation.
 
 ## Images used in the application
  ### Background image
-![Background Image](https://www.dropbox.com/s/a8t56n41wcw74q4/blood.jpg?dl=0)
+![blood](https://user-images.githubusercontent.com/87450539/190481934-140ac4f4-47a9-45de-bb7c-99fee88435d3.jpg)
  
  ### Buttons
    ##### Receive
-![My Remote Image](https://www.dropbox.com/s/w0hvnizjj93vq6j/Button_6.jpg?dl=0)
+![Button_6](https://user-images.githubusercontent.com/87450539/190481673-1b1606d0-7a73-4220-8ccb-c474fd0114d3.jpg)
    ##### Donate
-![My Remote Image](https://www.dropbox.com/s/eou27m3qm9oy96p/Button_7.jpg?dl=0)
+![Button_7](https://user-images.githubusercontent.com/87450539/190481838-bb488b20-b509-4a67-9a21-842bd892b09a.jpg)
 ## System tools
 This system is developed using python tkinter and sqlite for database.
 
