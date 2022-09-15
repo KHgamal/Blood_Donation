@@ -11,7 +11,7 @@ This is for donors. As for  receivers they can submit a request for a donation.
 
 ## Images used in the application
  ### Background image
-     ![blood](http://file://D:/8.blood%20app/python/images/blood.jpg)
+     ![blood](http://D:/8.blood%20app/python/images/blood.jpg)
  
  ### Buttons
    ##### Receive
